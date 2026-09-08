@@ -22,6 +22,9 @@ keywords:
   - wearables
   - embedded systems
 repository-code: "https://github.com/alisinams/ecg-edge-beat-classifier"
+doi: "10.5281/zenodo.22662944"
+version: "1.0.0"
+date-released: "2026-09-08"
 preferred-citation:
   type: article
   title: "A Deep Learning ECG Arrhythmia Classifier for Microcontroller-Class Wearables: Inter-Patient Evaluation, External Validation and Embedded Deployment Analysis"

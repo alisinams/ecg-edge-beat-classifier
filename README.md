@@ -1,5 +1,8 @@
 # ECG arrhythmia classification on microcontroller-class wearables
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22662944.svg)](https://doi.org/10.5281/zenodo.22662944)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Code, trained weights, partition manifests and per-beat predictions for the paper:
 
 > **A Deep Learning ECG Arrhythmia Classifier for Microcontroller-Class Wearables: Inter-Patient Evaluation, External Validation and Embedded Deployment Analysis**
@@ -76,4 +79,7 @@ Code and documentation: MIT, see [LICENSE](LICENSE). The derived files under `mo
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff).
+Every release of this repository is archived on Zenodo. The concept DOI
+[10.5281/zenodo.22662944](https://doi.org/10.5281/zenodo.22662944) always resolves to the latest
+version; release `v1.0.0` is [10.5281/zenodo.22662945](https://doi.org/10.5281/zenodo.22662945).
+Machine-readable metadata is in [CITATION.cff](CITATION.cff).
