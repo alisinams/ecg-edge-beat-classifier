@@ -1,0 +1,57 @@
+{
+  "title": "ECG arrhythmia classification on microcontroller-class wearables: code, weights, partition manifests and per-beat predictions",
+  "description": "<p>Artefacts supporting the paper <i>A Deep Learning ECG Arrhythmia Classifier for Microcontroller-Class Wearables: Inter-Patient Evaluation, External Validation and Embedded Deployment Analysis</i>.</p><p>Contains the complete analysis pipeline, the FP32 weights of all seven arms at five seeds under both the inter-patient and the patient-mixed partition, the INT8 quantisation-aware-trained student and its CMSIS-NN deployment tensors, the exact record lists and per-beat manifests of every partition, the environment specification, the seeds, the per-beat posterior probabilities on DS2, the patient-mixed refit, INCART and SVDB, and the main and supplementary figures.</p><p>The raw waveforms are not redistributed: the MIT-BIH Arrhythmia, St Petersburg INCART, MIT-BIH Supraventricular Arrhythmia and MIT-BIH Noise Stress Test databases are public on PhysioNet and are fetched by the download script.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Mousavi, Alisina",
+      "affiliation": "Department of Computer Engineering, Za.C., Islamic Azad University, Zanjan, Iran",
+      "orcid": "0009-0003-8480-7134"
+    },
+    {
+      "name": "Bazargani, Mahdi",
+      "affiliation": "Department of Computer Engineering, Za.C., Islamic Azad University, Zanjan, Iran",
+      "orcid": "0000-0001-7018-0332"
+    }
+  ],
+  "keywords": [
+    "electrocardiography",
+    "arrhythmia",
+    "knowledge distillation",
+    "inter-patient evaluation",
+    "quantisation",
+    "wearables",
+    "embedded systems",
+    "MIT-BIH",
+    "AAMI EC57"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.13026/C2F305",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.13026/C2V88N",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.13026/C2V30W",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.13026/C2HS3T",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}
