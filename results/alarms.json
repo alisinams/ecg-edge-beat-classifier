@@ -1,0 +1,10 @@
+{
+  "monitored_hours": 11.03395061728395,
+  "false_v": 1485,
+  "false_s": 490,
+  "false_v_per_24h": 3230.0307692307697,
+  "false_s_per_24h": 1065.8013986013987,
+  "coverage": 0.9616395165528113,
+  "false_v_per_24h_no_abstention": 3886.9124475524486,
+  "false_s_per_24h_no_abstention": 1113.6537062937064
+}

@@ -1,0 +1,115 @@
+{
+  "rules": [
+    {
+      "rule": "R1",
+      "antecedent": "RR ratio to local mean is mid and P-wave presence is high and QRS duration is low",
+      "consequent": "N",
+      "firing_strength": 0.44274118869066886,
+      "weight": 0.7256753551254873,
+      "fires": true
+    },
+    {
+      "rule": "R2",
+      "antecedent": "RR ratio to local mean is low and P-wave presence is low and QRS duration is low",
+      "consequent": "S",
+      "firing_strength": 0.14840151417794845,
+      "weight": 1.1938679421346332,
+      "fires": true
+    },
+    {
+      "rule": "R3",
+      "antecedent": "RR ratio to local mean is low and QRS duration is high and P-wave presence is low",
+      "consequent": "V",
+      "firing_strength": 0.1349106494344573,
+      "weight": 1.3512590075055895,
+      "fires": true
+    },
+    {
+      "rule": "R4",
+      "antecedent": "RR-interval irregularity is high and P-wave presence is low",
+      "consequent": "S",
+      "firing_strength": 0.005445040726819926,
+      "weight": 0.5540357281448531,
+      "fires": true
+    },
+    {
+      "rule": "R5",
+      "antecedent": "QRS duration is high and RR ratio to local mean is mid",
+      "consequent": "V",
+      "firing_strength": 0.035013936512782444,
+      "weight": 0.013647037463899996,
+      "fires": true
+    },
+    {
+      "rule": "R6",
+      "antecedent": "QRS duration is mid and P-wave presence is high",
+      "consequent": "F",
+      "firing_strength": 0.2147847209494544,
+      "weight": 0.40571217796780207,
+      "fires": true
+    },
+    {
+      "rule": "R7",
+      "antecedent": "RR-interval irregularity is low and RR ratio to local mean is low and P-wave presence is low and QRS duration is low",
+      "consequent": "Q",
+      "firing_strength": 0.00400486143465893,
+      "weight": 0.3430443603418143,
+      "fires": true
+    },
+    {
+      "rule": "R8",
+      "antecedent": "RR-interval irregularity is high and QRS duration is high",
+      "consequent": "V",
+      "firing_strength": 0.014631895986430046,
+      "weight": 1.4308490295166136,
+      "fires": true
+    }
+  ],
+  "memberships": {
+    "RR-interval irregularity": {
+      "low_mean": 0.4448435261990582,
+      "low_width": 0.09359208932857276,
+      "mid_mean": 0.17944354453002534,
+      "mid_width": 0.10353817495265712,
+      "high_mean": -0.0859564371390075,
+      "high_width": 0.031172820504566236,
+      "unit": "dimensionless"
+    },
+    "RR ratio to local mean": {
+      "low_mean": 0.5570229356362587,
+      "low_width": 0.20371578580630043,
+      "mid_mean": 1.2619641596307187,
+      "mid_width": 0.2813336202664641,
+      "high_mean": 1.9669053836251786,
+      "high_width": 0.2267480623673235,
+      "unit": "dimensionless"
+    },
+    "P-wave presence": {
+      "low_mean": 4.253756776703903,
+      "low_width": 25.923202188332976,
+      "mid_mean": 4.351273055842382,
+      "mid_width": 33.04480824788605,
+      "high_mean": 4.4487893349808605,
+      "high_width": 31.464620137882505,
+      "unit": "dimensionless"
+    },
+    "QRS duration": {
+      "low_mean": 54.12928481455143,
+      "low_width": 14.991374085599743,
+      "mid_mean": 58.892391319135164,
+      "mid_width": 10.392990120468413,
+      "high_mean": 63.65549782371889,
+      "high_width": 14.858689665715788,
+      "unit": "ms"
+    }
+  },
+  "val_macro_f1": [
+    0.404166998131587,
+    0.11613625595511048,
+    0.26817183135139055,
+    0.27613587640477,
+    0.29456040232704817
+  ],
+  "n_rules": 8,
+  "n_silent": 0
+}

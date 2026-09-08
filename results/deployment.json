@@ -1,0 +1,68 @@
+{
+  "device": {
+    "part": "STM32F446RE",
+    "core": "Arm Cortex-M4F",
+    "clock_mhz": 180.0,
+    "vdd_v": 3.3,
+    "active_current_ma": 38.0,
+    "sram_kb": 128.0,
+    "flash_kb": 512.0
+  },
+  "assumptions": {
+    "cmsis_macs_per_cycle": 0.8,
+    "per_layer_overhead_cycles": 900.0,
+    "beats_per_minute": 75.0,
+    "cell_mah": 100.0,
+    "qat_epochs": 40,
+    "note": "No STM32F446 board was available. Latency, peak SRAM and energy are modelled from the layer shapes and the datasheet, not measured on hardware. Parameters, MACs, model size and the FP32-to-INT8 accuracy change are measured."
+  },
+  "params": 4516,
+  "macs": 122263,
+  "layers": 6,
+  "size_fp32_kb": 17.640625,
+  "size_int8_kb": 4.45703125,
+  "sram_kb": 8.4912109375,
+  "sram_detail": {
+    "activation_bytes": 4264,
+    "im2col_bytes": 4264,
+    "io_bytes": 167,
+    "total_bytes": 8695,
+    "layer_output_elems": [
+      2132,
+      2132,
+      1066,
+      1558,
+      1558,
+      798,
+      1197,
+      1197,
+      5
+    ]
+  },
+  "latency_us": {
+    "mean": 887.8918875483511,
+    "median": 886.2330395606514,
+    "p95": 900.1411154015166,
+    "p99": 908.2244410256254,
+    "n": 10000
+  },
+  "energy_uj": 111.3416426985632,
+  "battery_days": 98.79502164145765,
+  "macro_f1_fp32": 0.337610304806614,
+  "macro_f1_int8": 0.3178204843395115,
+  "macro_f1_delta": -0.019789820467102537,
+  "macro_f1_fp32_per_seed": [
+    0.3315474028099758,
+    0.3036286602651854,
+    0.3736951911895393,
+    0.278032944149825,
+    0.4011473256185444
+  ],
+  "macro_f1_int8_per_seed": [
+    0.33659313018593146,
+    0.2925878226404869,
+    0.2993112693394301,
+    0.30861748078821627,
+    0.3519927187434927
+  ]
+}

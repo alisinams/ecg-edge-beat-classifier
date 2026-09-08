@@ -1,0 +1,986 @@
+partition,record,class,count
+DS2 test,100,N,2229
+DS2 test,100,S,32
+DS2 test,100,V,1
+DS2 test,100,F,0
+DS2 test,100,Q,0
+DS1 validation subset,101,N,1850
+DS1 validation subset,101,S,3
+DS1 validation subset,101,V,0
+DS1 validation subset,101,F,0
+DS1 validation subset,101,Q,2
+DS2 test,103,N,2071
+DS2 test,103,S,2
+DS2 test,103,V,0
+DS2 test,103,F,0
+DS2 test,103,Q,0
+DS2 test,105,N,2516
+DS2 test,105,S,0
+DS2 test,105,V,41
+DS2 test,105,F,0
+DS2 test,105,Q,5
+DS1 training subset,106,N,1497
+DS1 training subset,106,S,0
+DS1 training subset,106,V,520
+DS1 training subset,106,F,0
+DS1 training subset,106,Q,0
+DS1 training subset,108,N,1730
+DS1 training subset,108,S,4
+DS1 training subset,108,V,17
+DS1 training subset,108,F,2
+DS1 training subset,108,Q,0
+DS1 training subset,109,N,2481
+DS1 training subset,109,S,0
+DS1 training subset,109,V,38
+DS1 training subset,109,F,2
+DS1 training subset,109,Q,0
+DS2 test,111,N,2113
+DS2 test,111,S,0
+DS2 test,111,V,1
+DS2 test,111,F,0
+DS2 test,111,Q,0
+DS1 training subset,112,N,2526
+DS1 training subset,112,S,2
+DS1 training subset,112,V,0
+DS1 training subset,112,F,0
+DS1 training subset,112,Q,0
+DS2 test,113,N,1778
+DS2 test,113,S,6
+DS2 test,113,V,0
+DS2 test,113,F,0
+DS2 test,113,Q,0
+DS1 validation subset,114,N,1810
+DS1 validation subset,114,S,12
+DS1 validation subset,114,V,43
+DS1 validation subset,114,F,4
+DS1 validation subset,114,Q,0
+DS1 training subset,115,N,1942
+DS1 training subset,115,S,0
+DS1 training subset,115,V,0
+DS1 training subset,115,F,0
+DS1 training subset,115,Q,0
+DS1 training subset,116,N,2291
+DS1 training subset,116,S,1
+DS1 training subset,116,V,109
+DS1 training subset,116,F,0
+DS1 training subset,116,Q,0
+DS2 test,117,N,1523
+DS2 test,117,S,1
+DS2 test,117,V,0
+DS2 test,117,F,0
+DS2 test,117,Q,0
+DS1 training subset,118,N,2156
+DS1 training subset,118,S,96
+DS1 training subset,118,V,16
+DS1 training subset,118,F,0
+DS1 training subset,118,Q,0
+DS1 training subset,119,N,1535
+DS1 training subset,119,S,0
+DS1 training subset,119,V,442
+DS1 training subset,119,F,0
+DS1 training subset,119,Q,0
+DS2 test,121,N,1850
+DS2 test,121,S,1
+DS2 test,121,V,1
+DS2 test,121,F,0
+DS2 test,121,Q,0
+DS1 training subset,122,N,2465
+DS1 training subset,122,S,0
+DS1 training subset,122,V,0
+DS1 training subset,122,F,0
+DS1 training subset,122,Q,0
+DS2 test,123,N,1505
+DS2 test,123,S,0
+DS2 test,123,V,3
+DS2 test,123,F,0
+DS2 test,123,Q,0
+DS1 training subset,124,N,1525
+DS1 training subset,124,S,31
+DS1 training subset,124,V,47
+DS1 training subset,124,F,5
+DS1 training subset,124,Q,0
+DS2 test,200,N,1737
+DS2 test,200,S,30
+DS2 test,200,V,821
+DS2 test,200,F,2
+DS2 test,200,Q,0
+DS1 training subset,201,N,1625
+DS1 training subset,201,S,128
+DS1 training subset,201,V,198
+DS1 training subset,201,F,2
+DS1 training subset,201,Q,0
+DS2 test,202,N,2050
+DS2 test,202,S,55
+DS2 test,202,V,19
+DS2 test,202,F,1
+DS2 test,202,Q,0
+DS1 validation subset,203,N,2519
+DS1 validation subset,203,S,2
+DS1 validation subset,203,V,444
+DS1 validation subset,203,F,1
+DS1 validation subset,203,Q,4
+DS1 training subset,205,N,2560
+DS1 training subset,205,S,3
+DS1 training subset,205,V,71
+DS1 training subset,205,F,11
+DS1 training subset,205,Q,0
+DS1 training subset,207,N,1538
+DS1 training subset,207,S,107
+DS1 training subset,207,V,205
+DS1 training subset,207,F,0
+DS1 training subset,207,Q,0
+DS1 training subset,208,N,1582
+DS1 training subset,208,S,2
+DS1 training subset,208,V,987
+DS1 training subset,208,F,371
+DS1 training subset,208,Q,2
+DS1 training subset,209,N,2610
+DS1 training subset,209,S,383
+DS1 training subset,209,V,1
+DS1 training subset,209,F,0
+DS1 training subset,209,Q,0
+DS2 test,210,N,2413
+DS2 test,210,S,22
+DS2 test,210,V,194
+DS2 test,210,F,10
+DS2 test,210,Q,0
+DS2 test,212,N,2737
+DS2 test,212,S,0
+DS2 test,212,V,0
+DS2 test,212,F,0
+DS2 test,212,Q,0
+DS2 test,213,N,2630
+DS2 test,213,S,28
+DS2 test,213,V,220
+DS2 test,213,F,362
+DS2 test,213,Q,0
+DS2 test,214,N,1993
+DS2 test,214,S,0
+DS2 test,214,V,255
+DS2 test,214,F,1
+DS2 test,214,Q,2
+DS1 training subset,215,N,3184
+DS1 training subset,215,S,3
+DS1 training subset,215,V,164
+DS1 training subset,215,F,1
+DS1 training subset,215,Q,0
+DS2 test,219,N,2072
+DS2 test,219,S,7
+DS2 test,219,V,64
+DS2 test,219,F,1
+DS2 test,219,Q,0
+DS1 validation subset,220,N,1943
+DS1 validation subset,220,S,94
+DS1 validation subset,220,V,0
+DS1 validation subset,220,F,0
+DS1 validation subset,220,Q,0
+DS2 test,221,N,2024
+DS2 test,221,S,0
+DS2 test,221,V,393
+DS2 test,221,F,0
+DS2 test,221,Q,0
+DS2 test,222,N,2263
+DS2 test,222,S,209
+DS2 test,222,V,0
+DS2 test,222,F,0
+DS2 test,222,Q,0
+DS1 validation subset,223,N,2035
+DS1 validation subset,223,S,73
+DS1 validation subset,223,V,473
+DS1 validation subset,223,F,14
+DS1 validation subset,223,Q,0
+DS2 test,228,N,1678
+DS2 test,228,S,3
+DS2 test,228,V,362
+DS2 test,228,F,0
+DS2 test,228,Q,0
+DS1 training subset,230,N,2245
+DS1 training subset,230,S,0
+DS1 training subset,230,V,1
+DS1 training subset,230,F,0
+DS1 training subset,230,Q,0
+DS2 test,231,N,1557
+DS2 test,231,S,1
+DS2 test,231,V,2
+DS2 test,231,F,0
+DS2 test,231,Q,0
+DS2 test,232,N,394
+DS2 test,232,S,1376
+DS2 test,232,V,0
+DS2 test,232,F,0
+DS2 test,232,Q,0
+DS2 test,233,N,2223
+DS2 test,233,S,7
+DS2 test,233,V,827
+DS2 test,233,F,11
+DS2 test,233,Q,0
+DS2 test,234,N,2690
+DS2 test,234,S,50
+DS2 test,234,V,3
+DS2 test,234,F,0
+DS2 test,234,Q,0
+incartdb,I01,N,2404
+incartdb,I01,S,0
+incartdb,I01,V,343
+incartdb,I01,F,0
+incartdb,I01,Q,0
+incartdb,I02,N,2437
+incartdb,I02,S,0
+incartdb,I02,V,227
+incartdb,I02,F,0
+incartdb,I02,Q,0
+incartdb,I03,N,2315
+incartdb,I03,S,2
+incartdb,I03,V,125
+incartdb,I03,F,0
+incartdb,I03,Q,0
+incartdb,I04,N,2260
+incartdb,I04,S,16
+incartdb,I04,V,121
+incartdb,I04,F,17
+incartdb,I04,Q,0
+incartdb,I05,N,1510
+incartdb,I05,S,0
+incartdb,I05,V,247
+incartdb,I05,F,9
+incartdb,I05,Q,0
+incartdb,I06,N,2426
+incartdb,I06,S,47
+incartdb,I06,V,9
+incartdb,I06,F,0
+incartdb,I06,Q,0
+incartdb,I07,N,2629
+incartdb,I07,S,65
+incartdb,I07,V,1
+incartdb,I07,F,0
+incartdb,I07,Q,0
+incartdb,I08,N,1767
+incartdb,I08,S,2
+incartdb,I08,V,351
+incartdb,I08,F,0
+incartdb,I08,Q,1
+incartdb,I09,N,2938
+incartdb,I09,S,0
+incartdb,I09,V,41
+incartdb,I09,F,0
+incartdb,I09,Q,0
+incartdb,I10,N,3589
+incartdb,I10,S,0
+incartdb,I10,V,83
+incartdb,I10,F,0
+incartdb,I10,Q,0
+incartdb,I11,N,2068
+incartdb,I11,S,0
+incartdb,I11,V,4
+incartdb,I11,F,0
+incartdb,I11,Q,0
+incartdb,I12,N,2790
+incartdb,I12,S,1
+incartdb,I12,V,6
+incartdb,I12,F,2
+incartdb,I12,Q,0
+incartdb,I13,N,1785
+incartdb,I13,S,0
+incartdb,I13,V,228
+incartdb,I13,F,0
+incartdb,I13,Q,0
+incartdb,I14,N,1792
+incartdb,I14,S,0
+incartdb,I14,V,64
+incartdb,I14,F,0
+incartdb,I14,Q,0
+incartdb,I15,N,2621
+incartdb,I15,S,0
+incartdb,I15,V,3
+incartdb,I15,F,0
+incartdb,I15,Q,0
+incartdb,I16,N,1510
+incartdb,I16,S,0
+incartdb,I16,V,2
+incartdb,I16,F,0
+incartdb,I16,Q,0
+incartdb,I17,N,1636
+incartdb,I17,S,0
+incartdb,I17,V,27
+incartdb,I17,F,0
+incartdb,I17,Q,0
+incartdb,I18,N,2653
+incartdb,I18,S,0
+incartdb,I18,V,364
+incartdb,I18,F,56
+incartdb,I18,Q,0
+incartdb,I19,N,1207
+incartdb,I19,S,0
+incartdb,I19,V,845
+incartdb,I19,F,0
+incartdb,I19,Q,0
+incartdb,I20,N,2353
+incartdb,I20,S,177
+incartdb,I20,V,110
+incartdb,I20,F,1
+incartdb,I20,Q,0
+incartdb,I21,N,2063
+incartdb,I21,S,103
+incartdb,I21,V,8
+incartdb,I21,F,0
+incartdb,I21,Q,0
+incartdb,I22,N,2808
+incartdb,I22,S,124
+incartdb,I22,V,183
+incartdb,I22,F,1
+incartdb,I22,Q,0
+incartdb,I23,N,2181
+incartdb,I23,S,0
+incartdb,I23,V,13
+incartdb,I23,F,0
+incartdb,I23,Q,0
+incartdb,I24,N,2554
+incartdb,I24,S,0
+incartdb,I24,V,6
+incartdb,I24,F,0
+incartdb,I24,Q,0
+incartdb,I25,N,1695
+incartdb,I25,S,2
+incartdb,I25,V,5
+incartdb,I25,F,0
+incartdb,I25,Q,0
+incartdb,I26,N,1488
+incartdb,I26,S,7
+incartdb,I26,V,4
+incartdb,I26,F,0
+incartdb,I26,Q,0
+incartdb,I27,N,1879
+incartdb,I27,S,0
+incartdb,I27,V,716
+incartdb,I27,F,0
+incartdb,I27,Q,0
+incartdb,I28,N,1703
+incartdb,I28,S,0
+incartdb,I28,V,4
+incartdb,I28,F,0
+incartdb,I28,Q,0
+incartdb,I29,N,1829
+incartdb,I29,S,0
+incartdb,I29,V,780
+incartdb,I29,F,0
+incartdb,I29,Q,1
+incartdb,I30,N,1698
+incartdb,I30,S,0
+incartdb,I30,V,753
+incartdb,I30,F,0
+incartdb,I30,Q,0
+incartdb,I31,N,1839
+incartdb,I31,S,0
+incartdb,I31,V,1360
+incartdb,I31,F,0
+incartdb,I31,Q,1
+incartdb,I32,N,1552
+incartdb,I32,S,0
+incartdb,I32,V,57
+incartdb,I32,F,0
+incartdb,I32,Q,0
+incartdb,I33,N,1236
+incartdb,I33,S,590
+incartdb,I33,V,1
+incartdb,I33,F,0
+incartdb,I33,Q,0
+incartdb,I34,N,1419
+incartdb,I34,S,536
+incartdb,I34,V,0
+incartdb,I34,F,0
+incartdb,I34,Q,0
+incartdb,I35,N,3194
+incartdb,I35,S,0
+incartdb,I35,V,454
+incartdb,I35,F,18
+incartdb,I35,Q,0
+incartdb,I36,N,3439
+incartdb,I36,S,0
+incartdb,I36,V,450
+incartdb,I36,F,12
+incartdb,I36,Q,0
+incartdb,I37,N,2001
+incartdb,I37,S,0
+incartdb,I37,V,450
+incartdb,I37,F,0
+incartdb,I37,Q,0
+incartdb,I38,N,2147
+incartdb,I38,S,0
+incartdb,I38,V,541
+incartdb,I38,F,0
+incartdb,I38,Q,1
+incartdb,I39,N,1452
+incartdb,I39,S,0
+incartdb,I39,V,313
+incartdb,I39,F,0
+incartdb,I39,Q,0
+incartdb,I40,N,2558
+incartdb,I40,S,6
+incartdb,I40,V,92
+incartdb,I40,F,0
+incartdb,I40,Q,0
+incartdb,I41,N,1614
+incartdb,I41,S,5
+incartdb,I41,V,1
+incartdb,I41,F,0
+incartdb,I41,Q,0
+incartdb,I42,N,1540
+incartdb,I42,S,0
+incartdb,I42,V,1549
+incartdb,I42,F,9
+incartdb,I42,Q,0
+incartdb,I43,N,1082
+incartdb,I43,S,0
+incartdb,I43,V,1115
+incartdb,I43,F,2
+incartdb,I43,Q,0
+incartdb,I44,N,1797
+incartdb,I44,S,8
+incartdb,I44,V,680
+incartdb,I44,F,0
+incartdb,I44,Q,0
+incartdb,I45,N,1429
+incartdb,I45,S,0
+incartdb,I45,V,488
+incartdb,I45,F,0
+incartdb,I45,Q,0
+incartdb,I46,N,2222
+incartdb,I46,S,1
+incartdb,I46,V,421
+incartdb,I46,F,3
+incartdb,I46,Q,0
+incartdb,I47,N,1849
+incartdb,I47,S,1
+incartdb,I47,V,92
+incartdb,I47,F,0
+incartdb,I47,Q,0
+incartdb,I48,N,2111
+incartdb,I48,S,2
+incartdb,I48,V,233
+incartdb,I48,F,1
+incartdb,I48,Q,0
+incartdb,I49,N,2110
+incartdb,I49,S,0
+incartdb,I49,V,27
+incartdb,I49,F,0
+incartdb,I49,Q,0
+incartdb,I50,N,2983
+incartdb,I50,S,0
+incartdb,I50,V,4
+incartdb,I50,F,0
+incartdb,I50,Q,0
+incartdb,I51,N,1964
+incartdb,I51,S,3
+incartdb,I51,V,798
+incartdb,I51,F,1
+incartdb,I51,Q,0
+incartdb,I52,N,1600
+incartdb,I52,S,0
+incartdb,I52,V,137
+incartdb,I52,F,0
+incartdb,I52,Q,0
+incartdb,I53,N,1146
+incartdb,I53,S,0
+incartdb,I53,V,1105
+incartdb,I53,F,0
+incartdb,I53,Q,0
+incartdb,I54,N,2329
+incartdb,I54,S,1
+incartdb,I54,V,22
+incartdb,I54,F,0
+incartdb,I54,Q,0
+incartdb,I55,N,2138
+incartdb,I55,S,1
+incartdb,I55,V,17
+incartdb,I55,F,0
+incartdb,I55,Q,0
+incartdb,I56,N,1662
+incartdb,I56,S,26
+incartdb,I56,V,7
+incartdb,I56,F,0
+incartdb,I56,Q,0
+incartdb,I57,N,2832
+incartdb,I57,S,3
+incartdb,I57,V,20
+incartdb,I57,F,3
+incartdb,I57,Q,2
+incartdb,I58,N,2302
+incartdb,I58,S,0
+incartdb,I58,V,12
+incartdb,I58,F,0
+incartdb,I58,Q,0
+incartdb,I59,N,2057
+incartdb,I59,S,0
+incartdb,I59,V,81
+incartdb,I59,F,0
+incartdb,I59,Q,0
+incartdb,I60,N,2465
+incartdb,I60,S,0
+incartdb,I60,V,0
+incartdb,I60,F,0
+incartdb,I60,Q,0
+incartdb,I61,N,1443
+incartdb,I61,S,1
+incartdb,I61,V,0
+incartdb,I61,F,0
+incartdb,I61,Q,0
+incartdb,I62,N,1443
+incartdb,I62,S,9
+incartdb,I62,V,795
+incartdb,I62,F,12
+incartdb,I62,Q,0
+incartdb,I63,N,1838
+incartdb,I63,S,1
+incartdb,I63,V,137
+incartdb,I63,F,8
+incartdb,I63,Q,0
+incartdb,I64,N,1876
+incartdb,I64,S,0
+incartdb,I64,V,23
+incartdb,I64,F,3
+incartdb,I64,Q,0
+incartdb,I65,N,2266
+incartdb,I65,S,5
+incartdb,I65,V,379
+incartdb,I65,F,4
+incartdb,I65,Q,0
+incartdb,I66,N,2130
+incartdb,I66,S,1
+incartdb,I66,V,198
+incartdb,I66,F,0
+incartdb,I66,Q,0
+incartdb,I67,N,2431
+incartdb,I67,S,5
+incartdb,I67,V,528
+incartdb,I67,F,1
+incartdb,I67,Q,0
+incartdb,I68,N,2471
+incartdb,I68,S,2
+incartdb,I68,V,161
+incartdb,I68,F,0
+incartdb,I68,Q,0
+incartdb,I69,N,1991
+incartdb,I69,S,1
+incartdb,I69,V,166
+incartdb,I69,F,1
+incartdb,I69,Q,0
+incartdb,I70,N,1532
+incartdb,I70,S,124
+incartdb,I70,V,0
+incartdb,I70,F,0
+incartdb,I70,Q,0
+incartdb,I71,N,1624
+incartdb,I71,S,35
+incartdb,I71,V,0
+incartdb,I71,F,0
+incartdb,I71,Q,0
+incartdb,I72,N,1867
+incartdb,I72,S,8
+incartdb,I72,V,384
+incartdb,I72,F,0
+incartdb,I72,Q,0
+incartdb,I73,N,1880
+incartdb,I73,S,32
+incartdb,I73,V,70
+incartdb,I73,F,0
+incartdb,I73,Q,0
+incartdb,I74,N,2073
+incartdb,I74,S,0
+incartdb,I74,V,273
+incartdb,I74,F,48
+incartdb,I74,Q,0
+incartdb,I75,N,1475
+incartdb,I75,S,0
+incartdb,I75,V,611
+incartdb,I75,F,7
+incartdb,I75,Q,0
+svdb,800,N,1836
+svdb,800,S,30
+svdb,800,V,6
+svdb,800,F,1
+svdb,800,Q,0
+svdb,801,N,2170
+svdb,801,S,66
+svdb,801,V,263
+svdb,801,F,0
+svdb,801,Q,0
+svdb,802,N,1575
+svdb,802,S,0
+svdb,802,V,85
+svdb,802,F,0
+svdb,802,Q,0
+svdb,803,N,1914
+svdb,803,S,0
+svdb,803,V,143
+svdb,803,F,1
+svdb,803,Q,0
+svdb,804,N,2642
+svdb,804,S,0
+svdb,804,V,181
+svdb,804,F,0
+svdb,804,Q,0
+svdb,805,N,2081
+svdb,805,S,0
+svdb,805,V,207
+svdb,805,F,0
+svdb,805,Q,0
+svdb,806,N,2942
+svdb,806,S,40
+svdb,806,V,29
+svdb,806,F,2
+svdb,806,Q,0
+svdb,807,N,1902
+svdb,807,S,29
+svdb,807,V,0
+svdb,807,F,0
+svdb,807,Q,0
+svdb,808,N,1736
+svdb,808,S,20
+svdb,808,V,8
+svdb,808,F,0
+svdb,808,Q,0
+svdb,809,N,2421
+svdb,809,S,112
+svdb,809,V,0
+svdb,809,F,0
+svdb,809,Q,0
+svdb,810,N,1828
+svdb,810,S,8
+svdb,810,V,56
+svdb,810,F,0
+svdb,810,Q,0
+svdb,811,N,1395
+svdb,811,S,1
+svdb,811,V,28
+svdb,811,F,1
+svdb,811,Q,0
+svdb,812,N,1751
+svdb,812,S,14
+svdb,812,V,67
+svdb,812,F,0
+svdb,812,Q,0
+svdb,820,N,2153
+svdb,820,S,184
+svdb,820,V,3
+svdb,820,F,0
+svdb,820,Q,1
+svdb,821,N,2472
+svdb,821,S,613
+svdb,821,V,36
+svdb,821,F,0
+svdb,821,Q,1
+svdb,822,N,1668
+svdb,822,S,655
+svdb,822,V,1
+svdb,822,F,0
+svdb,822,Q,0
+svdb,823,N,2469
+svdb,823,S,382
+svdb,823,V,0
+svdb,823,F,0
+svdb,823,Q,0
+svdb,824,N,2207
+svdb,824,S,195
+svdb,824,V,7
+svdb,824,F,0
+svdb,824,Q,0
+svdb,825,N,2644
+svdb,825,S,143
+svdb,825,V,0
+svdb,825,F,0
+svdb,825,Q,0
+svdb,826,N,2571
+svdb,826,S,80
+svdb,826,V,0
+svdb,826,F,0
+svdb,826,Q,0
+svdb,827,N,1834
+svdb,827,S,18
+svdb,827,V,0
+svdb,827,F,0
+svdb,827,Q,0
+svdb,828,N,1749
+svdb,828,S,148
+svdb,828,V,6
+svdb,828,F,0
+svdb,828,Q,0
+svdb,829,N,1876
+svdb,829,S,80
+svdb,829,V,0
+svdb,829,F,0
+svdb,829,Q,0
+svdb,840,N,2331
+svdb,840,S,44
+svdb,840,V,1
+svdb,840,F,0
+svdb,840,Q,0
+svdb,841,N,1482
+svdb,841,S,105
+svdb,841,V,254
+svdb,841,F,0
+svdb,841,Q,3
+svdb,842,N,2384
+svdb,842,S,104
+svdb,842,V,61
+svdb,842,F,0
+svdb,842,Q,0
+svdb,843,N,2639
+svdb,843,S,21
+svdb,843,V,37
+svdb,843,F,0
+svdb,843,Q,0
+svdb,844,N,1640
+svdb,844,S,59
+svdb,844,V,0
+svdb,844,F,0
+svdb,844,Q,0
+svdb,845,N,2821
+svdb,845,S,24
+svdb,845,V,30
+svdb,845,F,0
+svdb,845,Q,2
+svdb,846,N,1650
+svdb,846,S,20
+svdb,846,V,0
+svdb,846,F,0
+svdb,846,Q,0
+svdb,847,N,1657
+svdb,847,S,51
+svdb,847,V,43
+svdb,847,F,0
+svdb,847,Q,0
+svdb,848,N,4217
+svdb,848,S,30
+svdb,848,V,1
+svdb,848,F,0
+svdb,848,Q,0
+svdb,849,N,2049
+svdb,849,S,74
+svdb,849,V,6
+svdb,849,F,0
+svdb,849,Q,21
+svdb,850,N,1820
+svdb,850,S,7
+svdb,850,V,0
+svdb,850,F,0
+svdb,850,Q,0
+svdb,851,N,2161
+svdb,851,S,32
+svdb,851,V,424
+svdb,851,F,0
+svdb,851,Q,0
+svdb,852,N,2324
+svdb,852,S,321
+svdb,852,V,9
+svdb,852,F,0
+svdb,852,Q,0
+svdb,853,N,2097
+svdb,853,S,48
+svdb,853,V,63
+svdb,853,F,0
+svdb,853,Q,12
+svdb,854,N,1783
+svdb,854,S,460
+svdb,854,V,475
+svdb,854,F,0
+svdb,854,Q,4
+svdb,855,N,2029
+svdb,855,S,224
+svdb,855,V,275
+svdb,855,F,0
+svdb,855,Q,1
+svdb,856,N,2802
+svdb,856,S,12
+svdb,856,V,28
+svdb,856,F,0
+svdb,856,Q,1
+svdb,857,N,2394
+svdb,857,S,36
+svdb,857,V,143
+svdb,857,F,0
+svdb,857,Q,0
+svdb,858,N,2159
+svdb,858,S,8
+svdb,858,V,3
+svdb,858,F,0
+svdb,858,Q,0
+svdb,859,N,2999
+svdb,859,S,69
+svdb,859,V,463
+svdb,859,F,0
+svdb,859,Q,0
+svdb,860,N,1665
+svdb,860,S,17
+svdb,860,V,725
+svdb,860,F,0
+svdb,860,Q,0
+svdb,861,N,1866
+svdb,861,S,568
+svdb,861,V,27
+svdb,861,F,0
+svdb,861,Q,1
+svdb,862,N,2124
+svdb,862,S,26
+svdb,862,V,23
+svdb,862,F,0
+svdb,862,Q,5
+svdb,863,N,2554
+svdb,863,S,320
+svdb,863,V,239
+svdb,863,F,0
+svdb,863,Q,1
+svdb,864,N,1734
+svdb,864,S,19
+svdb,864,V,132
+svdb,864,F,0
+svdb,864,Q,0
+svdb,865,N,1092
+svdb,865,S,1818
+svdb,865,V,235
+svdb,865,F,0
+svdb,865,Q,7
+svdb,866,N,2042
+svdb,866,S,166
+svdb,866,V,447
+svdb,866,F,0
+svdb,866,Q,0
+svdb,867,N,2780
+svdb,867,S,136
+svdb,867,V,74
+svdb,867,F,0
+svdb,867,Q,0
+svdb,868,N,2543
+svdb,868,S,227
+svdb,868,V,555
+svdb,868,F,0
+svdb,868,Q,11
+svdb,869,N,1498
+svdb,869,S,631
+svdb,869,V,22
+svdb,869,F,0
+svdb,869,Q,0
+svdb,870,N,1778
+svdb,870,S,454
+svdb,870,V,436
+svdb,870,F,0
+svdb,870,Q,0
+svdb,871,N,1765
+svdb,871,S,12
+svdb,871,V,8
+svdb,871,F,0
+svdb,871,Q,0
+svdb,872,N,1888
+svdb,872,S,9
+svdb,872,V,74
+svdb,872,F,0
+svdb,872,Q,0
+svdb,873,N,1616
+svdb,873,S,15
+svdb,873,V,26
+svdb,873,F,17
+svdb,873,Q,0
+svdb,874,N,2179
+svdb,874,S,9
+svdb,874,V,41
+svdb,874,F,0
+svdb,874,Q,0
+svdb,875,N,1935
+svdb,875,S,8
+svdb,875,V,97
+svdb,875,F,1
+svdb,875,Q,0
+svdb,876,N,1996
+svdb,876,S,135
+svdb,876,V,0
+svdb,876,F,0
+svdb,876,Q,0
+svdb,877,N,1830
+svdb,877,S,196
+svdb,877,V,1
+svdb,877,F,0
+svdb,877,Q,0
+svdb,878,N,1580
+svdb,878,S,64
+svdb,878,V,256
+svdb,878,F,0
+svdb,878,Q,0
+svdb,879,N,1463
+svdb,879,S,48
+svdb,879,V,540
+svdb,879,F,0
+svdb,879,Q,0
+svdb,880,N,3096
+svdb,880,S,239
+svdb,880,V,141
+svdb,880,F,0
+svdb,880,Q,0
+svdb,881,N,1319
+svdb,881,S,624
+svdb,881,V,307
+svdb,881,F,0
+svdb,881,Q,3
+svdb,882,N,1878
+svdb,882,S,41
+svdb,882,V,5
+svdb,882,F,0
+svdb,882,Q,0
+svdb,883,N,1764
+svdb,883,S,39
+svdb,883,V,7
+svdb,883,F,0
+svdb,883,Q,0
+svdb,884,N,2475
+svdb,884,S,53
+svdb,884,V,344
+svdb,884,F,0
+svdb,884,Q,1
+svdb,885,N,1499
+svdb,885,S,396
+svdb,885,V,54
+svdb,885,F,0
+svdb,885,Q,1
+svdb,886,N,2159
+svdb,886,S,26
+svdb,886,V,27
+svdb,886,F,0
+svdb,886,Q,0
+svdb,887,N,2346
+svdb,887,S,125
+svdb,887,V,208
+svdb,887,F,0
+svdb,887,Q,1
+svdb,888,N,2182
+svdb,888,S,67
+svdb,888,V,54
+svdb,888,F,0
+svdb,888,Q,0
+svdb,889,N,1458
+svdb,889,S,149
+svdb,889,V,91
+svdb,889,F,0
+svdb,889,Q,0
+svdb,890,N,1993
+svdb,890,S,74
+svdb,890,V,97
+svdb,890,F,0
+svdb,890,Q,0
+svdb,891,N,2114
+svdb,891,S,275
+svdb,891,V,207
+svdb,891,F,0
+svdb,891,Q,0
+svdb,892,N,1736
+svdb,892,S,520
+svdb,892,V,576
+svdb,892,F,0
+svdb,892,Q,1
+svdb,893,N,2180
+svdb,893,S,0
+svdb,893,V,338
+svdb,893,F,0
+svdb,893,Q,0
+svdb,894,N,2203
+svdb,894,S,80
+svdb,894,V,53
+svdb,894,F,0
+svdb,894,Q,1

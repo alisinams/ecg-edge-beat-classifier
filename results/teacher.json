@@ -1,0 +1,8 @@
+{
+  "model_id": "Edoardo-Coppola/hubert-ecg-small",
+  "parameters": 30537350,
+  "val_selection_f1": 0.577562398658483,
+  "epochs_run": 5,
+  "wallclock_min": 7.914689751466115,
+  "input": "5 s at 100 Hz, single lead replicated into 12 slots, attention pooling, four rhythm descriptors at the head"
+}

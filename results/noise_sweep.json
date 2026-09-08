@@ -1,0 +1,106 @@
+{
+  "clean_macro_f1": 0.35140209378491755,
+  "rows": [
+    {
+      "noise_type": "baseline wander",
+      "snr_db": 18,
+      "macro_f1": 0.35156342815000474
+    },
+    {
+      "noise_type": "baseline wander",
+      "snr_db": 12,
+      "macro_f1": 0.3510972204938667
+    },
+    {
+      "noise_type": "baseline wander",
+      "snr_db": 6,
+      "macro_f1": 0.3499205254672408
+    },
+    {
+      "noise_type": "baseline wander",
+      "snr_db": 0,
+      "macro_f1": 0.349757055306197
+    },
+    {
+      "noise_type": "muscle artifact",
+      "snr_db": 18,
+      "macro_f1": 0.35669060993420787
+    },
+    {
+      "noise_type": "muscle artifact",
+      "snr_db": 12,
+      "macro_f1": 0.36150804698360256
+    },
+    {
+      "noise_type": "muscle artifact",
+      "snr_db": 6,
+      "macro_f1": 0.364596467301829
+    },
+    {
+      "noise_type": "muscle artifact",
+      "snr_db": 0,
+      "macro_f1": 0.3417370735828731
+    },
+    {
+      "noise_type": "electrode motion",
+      "snr_db": 18,
+      "macro_f1": 0.3471770259854008
+    },
+    {
+      "noise_type": "electrode motion",
+      "snr_db": 12,
+      "macro_f1": 0.3441609006762545
+    },
+    {
+      "noise_type": "electrode motion",
+      "snr_db": 6,
+      "macro_f1": 0.3311201725853679
+    },
+    {
+      "noise_type": "electrode motion",
+      "snr_db": 0,
+      "macro_f1": 0.30595413498140706
+    },
+    {
+      "noise_type": "50 Hz mains",
+      "snr_db": 18,
+      "macro_f1": 0.35337280173609675
+    },
+    {
+      "noise_type": "50 Hz mains",
+      "snr_db": 12,
+      "macro_f1": 0.3570717965458373
+    },
+    {
+      "noise_type": "50 Hz mains",
+      "snr_db": 6,
+      "macro_f1": 0.3635977131287181
+    },
+    {
+      "noise_type": "50 Hz mains",
+      "snr_db": 0,
+      "macro_f1": 0.3802313101580291
+    },
+    {
+      "noise_type": "60 Hz mains",
+      "snr_db": 18,
+      "macro_f1": 0.3515159113931222
+    },
+    {
+      "noise_type": "60 Hz mains",
+      "snr_db": 12,
+      "macro_f1": 0.35203926780707884
+    },
+    {
+      "noise_type": "60 Hz mains",
+      "snr_db": 6,
+      "macro_f1": 0.3522365128285232
+    },
+    {
+      "noise_type": "60 Hz mains",
+      "snr_db": 0,
+      "macro_f1": 0.3521535430596595
+    }
+  ],
+  "injection": "added to the raw record before the band-pass filter, then the whole chain of section 6.2 was rerun on the contaminated record"
+}

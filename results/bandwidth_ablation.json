@@ -1,0 +1,20 @@
+{
+  "rows": [
+    {
+      "label": "40 Hz, used in the manuscript",
+      "macro_f1": 0.3422727650981098,
+      "macro_f1_sd": 0.020443723677923468,
+      "se_v": 0.80625,
+      "se_s": 0.5065217391304349
+    },
+    {
+      "label": "100 Hz",
+      "macro_f1": 0.33897603336148074,
+      "macro_f1_sd": 0.01689001123657257,
+      "se_v": 0.8014583333333334,
+      "se_s": 0.4445652173913043
+    }
+  ],
+  "delta_macro_f1": -0.0032967317366290327,
+  "note": "Scored on the DS1 validation subset only; DS2 is not used here. The student arm topology and hyperparameters are held fixed, so the only change is the upper filter corner."
+}

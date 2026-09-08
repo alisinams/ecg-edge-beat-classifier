@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or these artefacts, please cite the paper below."
+title: "ECG arrhythmia classification on microcontroller-class wearables: code, weights and per-beat predictions"
+abstract: "Code, trained FP32 and INT8 weights, the exact record and beat lists for every partition, the environment specification, the seeds and the per-beat predictions supporting a single-lead beat classifier for microcontroller-class hardware evaluated under an inter-patient partition."
+type: software
+license: MIT
+authors:
+  - family-names: Mousavi
+    given-names: Alisina
+    orcid: "https://orcid.org/0009-0003-8480-7134"
+    affiliation: "Department of Computer Engineering, Za.C., Islamic Azad University, Zanjan, Iran"
+  - family-names: Bazargani
+    given-names: Mahdi
+    orcid: "https://orcid.org/0000-0001-7018-0332"
+    affiliation: "Department of Computer Engineering, Za.C., Islamic Azad University, Zanjan, Iran"
+keywords:
+  - electrocardiography
+  - arrhythmia
+  - knowledge distillation
+  - inter-patient evaluation
+  - quantisation
+  - wearables
+  - embedded systems
+repository-code: "https://github.com/alisinams/ecg-edge-beat-classifier"
+preferred-citation:
+  type: article
+  title: "A Deep Learning ECG Arrhythmia Classifier for Microcontroller-Class Wearables: Inter-Patient Evaluation, External Validation and Embedded Deployment Analysis"
+  authors:
+    - family-names: Mousavi
+      given-names: Alisina
+      orcid: "https://orcid.org/0009-0003-8480-7134"
+    - family-names: Bazargani
+      given-names: Mahdi
+      orcid: "https://orcid.org/0000-0001-7018-0332"
+  journal: "Biomedical Signal Processing and Control"
+  year: 2026

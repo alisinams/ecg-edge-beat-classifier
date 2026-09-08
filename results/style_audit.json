@@ -1,0 +1,308 @@
+{
+  "05_Manuscript.md": {
+    "words": 17914,
+    "H1": [],
+    "H2": {
+      "negative parallelism, rather than": {
+        "count": 1,
+        "allowance": 1,
+        "over": 0,
+        "examples": [
+          "record before the band-pass filter, so the filter is tested rather than bypassed. Macro-F1 falls from 0.351 on the clean signal to"
+        ]
+      },
+      "negative parallelism, not only but also": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "copula avoidance": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "participial tail": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "vague attribution": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "promotional register": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      }
+    },
+    "H3": {
+      "em dash": {
+        "count": 0,
+        "allowance": 30,
+        "over": 0
+      },
+      "en dash": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "curly double quote": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "curly apostrophe": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "emoji or symbol": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "horizontal rule": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      }
+    },
+    "H4": {
+      "unresolved RESULT placeholder": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "unresolved VERIFY placeholder": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "TODO or FIXME": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "doubled space inside a sentence": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "placeholder ellipsis": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "generation artefact": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "self-duplicated citation group": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      }
+    },
+    "H6": {
+      "knowledge-cutoff disclaimer": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "reader address": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "canned assurance": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "meta-commentary about writing": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      }
+    },
+    "balance": {
+      "double_open": 6,
+      "double_close": 6,
+      "brace_open": 222,
+      "brace_close": 222
+    },
+    "violations": 0
+  },
+  "06_Supplementary.md": {
+    "words": 5512,
+    "H1": [],
+    "H2": {
+      "negative parallelism, rather than": {
+        "count": 1,
+        "allowance": 1,
+        "over": 0,
+        "examples": [
+          "d, because the deployment budget of section 6.8 is computed rather than metered. # S4. Per-record results and additional curves *"
+        ]
+      },
+      "negative parallelism, not only but also": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "copula avoidance": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "participial tail": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "vague attribution": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "promotional register": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      }
+    },
+    "H3": {
+      "em dash": {
+        "count": 0,
+        "allowance": 30,
+        "over": 0
+      },
+      "en dash": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "curly double quote": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "curly apostrophe": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "emoji or symbol": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      },
+      "horizontal rule": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0
+      }
+    },
+    "H4": {
+      "unresolved RESULT placeholder": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "unresolved VERIFY placeholder": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "TODO or FIXME": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "doubled space inside a sentence": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "placeholder ellipsis": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "generation artefact": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "self-duplicated citation group": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      }
+    },
+    "H6": {
+      "knowledge-cutoff disclaimer": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "reader address": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "canned assurance": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      },
+      "meta-commentary about writing": {
+        "count": 0,
+        "allowance": 0,
+        "over": 0,
+        "examples": []
+      }
+    },
+    "balance": {
+      "double_open": 1,
+      "double_close": 1,
+      "brace_open": 6,
+      "brace_close": 6
+    },
+    "violations": 0
+  }
+}

@@ -1,0 +1,14 @@
+# Versions of the run reported in the paper (see results/environment.json).
+# Python 3.13.1
+torch==2.11.0
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.0
+optuna==4.9.0
+wfdb==4.3.1
+neurokit2==0.2.13
+xgboost==3.3.0
+transformers==5.14.1
+cma==4.4.4
+pandas
+matplotlib

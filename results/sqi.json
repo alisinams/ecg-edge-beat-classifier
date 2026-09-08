@@ -1,0 +1,24 @@
+{
+  "threshold": 0.3104857029111138,
+  "rows": [
+    {
+      "dataset": "DS2",
+      "rejected": 903,
+      "total": 49478,
+      "rate": 0.018250535591576054
+    },
+    {
+      "dataset": "INCART",
+      "rejected": 4663,
+      "total": 175100,
+      "rate": 0.02663049685893775
+    },
+    {
+      "dataset": "SVDB",
+      "rejected": 5816,
+      "total": 183768,
+      "rate": 0.031648600409211615
+    }
+  ],
+  "threshold_rule": "second percentile of the index on the DS1 training beats"
+}
